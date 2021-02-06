@@ -1,2 +1,2 @@
 # MergeSort
-Code of merge sort algorithms by C language
+Code of merge sort algorithm by C language
